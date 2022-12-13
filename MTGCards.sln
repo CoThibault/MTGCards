@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCards.gui", "MTGCards.gui\MTGCards.gui.csproj", "{FFDFFDA6-88BC-4233-A04E-D4586D9EB69E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCards.dtos", "MTGCards.dtos\MTGCards.dtos.csproj", "{5E0CE520-4AAD-42A9-88FA-B1F72539EC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCards.tests", "MTGCards.tests\MTGCards.tests.csproj", "{11FF4838-11B1-4BAE-82F8-808B54D4CA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCards.lib", "MTGCards.lib\MTGCards.lib.csproj", "{2B034079-51B1-47A1-B7EA-F5A1E4714439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTGCards.Common", "MTGCards.Common\MTGCards.Common.csproj", "{15CD2D9E-A10E-49E5-AFC6-085AA10CDBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDFFDA6-88BC-4233-A04E-D4586D9EB69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDFFDA6-88BC-4233-A04E-D4586D9EB69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDFFDA6-88BC-4233-A04E-D4586D9EB69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDFFDA6-88BC-4233-A04E-D4586D9EB69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0CE520-4AAD-42A9-88FA-B1F72539EC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0CE520-4AAD-42A9-88FA-B1F72539EC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0CE520-4AAD-42A9-88FA-B1F72539EC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0CE520-4AAD-42A9-88FA-B1F72539EC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FF4838-11B1-4BAE-82F8-808B54D4CA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FF4838-11B1-4BAE-82F8-808B54D4CA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FF4838-11B1-4BAE-82F8-808B54D4CA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FF4838-11B1-4BAE-82F8-808B54D4CA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B034079-51B1-47A1-B7EA-F5A1E4714439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B034079-51B1-47A1-B7EA-F5A1E4714439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B034079-51B1-47A1-B7EA-F5A1E4714439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B034079-51B1-47A1-B7EA-F5A1E4714439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CD2D9E-A10E-49E5-AFC6-085AA10CDBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CD2D9E-A10E-49E5-AFC6-085AA10CDBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CD2D9E-A10E-49E5-AFC6-085AA10CDBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CD2D9E-A10E-49E5-AFC6-085AA10CDBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
